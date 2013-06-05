@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"bac",
+				"background-color"
+			],
+			[
 				"li",
 				"link	Tag"
 			],
@@ -278,31 +282,72 @@
 			[
 				"margin",
 				"margin-left"
-			],
-			[
-				"bac",
-				"background-attachment"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "index.php",
+			"file": "js/chart_internet.js",
 			"settings":
 			{
-				"buffer_size": 1497,
+				"buffer_size": 1014,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"contents": "<html>\n<head>\n	<title>Nepal Status</title>\n	<link href=\"bootstrap/css/bootstrap.css\" rel=\"stylesheet\">\n    <link href=\"bootstrap/css/bootstrap-responsive.css\" rel=\"stylesheet\">\n    <script type=\"text/javascript\" src=\"http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js\"></script>\n    <script type=\"text/css\">\n    	.container-fluid, .container {\n    		width: 960px;\n    	}\n    </script>\n</head>  \n    <script type=\"text/javascript\" src=\"js/chart_telecom_nepal.js\"></script>\n    <script type=\"text/javascript\" src=\"js/chart_internet_nepal.js\"></script>    \n<body>\n    <center>\n        <img src=\"img/header_final.png\" />\n    </center>\n	<div class=\"container\">\n        <div class=\"actions\">\n		<div class=\"row-fluid\">\n            <div class=\"span10 offset1 well\">\n                <div id=\"chart_telecom_nepal\"></div>\n                <br />\n                <div id=\"chart_internet_nepal\"></div>\n                <br />\n                <div id=\"\"></div> \n            </div>\n        </div>\n	</div>\n    <script src=\"http://code.highcharts.com/highcharts.js\"></script>\n    <script src=\"http://code.highcharts.com/modules/exporting.js\"></script>\n</body>\n</html>",
-			"file": "nepal_index.php",
-			"file_size": 1163,
-			"file_write_time": 130149013127032819,
+			"file": "js/chart_internet_nepal.js",
 			"settings":
 			{
-				"buffer_size": 1161,
+				"buffer_size": 1030,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/chart_internet_pie.js",
+			"settings":
+			{
+				"buffer_size": 1257,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/chart_internet_pie_nepal.js",
+			"settings":
+			{
+				"buffer_size": 1257,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 2123,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/chart_internet_users.js",
+			"settings":
+			{
+				"buffer_size": 1089,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/chart_mobile.js",
+			"settings":
+			{
+				"buffer_size": 1040,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/chart_telecom_nepal.js",
+			"settings":
+			{
+				"buffer_size": 1015,
 				"line_ending": "Windows"
 			}
 		}
@@ -331,20 +376,25 @@
 	},
 	"file_history":
 	[
+		"/C/wamp/www/hackathon/index.php",
+		"/C/wamp/www/hackathon/nepal_index.php",
+		"/C/Users/User/Downloads/hackathon_db.json",
+		"/C/wamp/www/hackathon/js/chart_internet_pie_nepal.js",
+		"/C/wamp/www/hackathon/nepal_internet_pie_data.php",
+		"/C/wamp/www/hackathon/js/chart_internet_pie.js",
+		"/C/Users/User/Desktop/data.php",
+		"/C/wamp/www/hackathon/js/chart_internet_pie_nepal",
 		"/C/Users/User/Desktop/index.php",
 		"/C/wamp/www/hackathon/js/chart_telecom_nepal.js",
 		"/C/wamp/www/hackathon/js/chart_internet_nepal.js",
-		"/C/wamp/www/hackathon/nepal_index.php",
 		"/C/wamp/www/hackathon/saarc_internet_data.php",
 		"/C/wamp/www/hackathon/js/chart_mobile.js",
 		"/C/wamp/www/hackathon/nepal_internet_data.php",
 		"/C/wamp/www/hackathon/js/chart_telecom.js",
 		"/C/Users/User/Downloads/index.php",
-		"/C/wamp/www/hackathon/index.php",
 		"/C/Users/User/Downloads/nepal_internet_data.php",
 		"/C/wamp/www/hackathon/saarc_internet_users_data.php",
 		"/C/wamp/www/hackathon/js/chart_internet_users.js",
-		"/C/wamp/www/hackathon/js/chart_internet_pie.js",
 		"/C/wamp/www/hackathon/js/chart_internet.js",
 		"/C/wamp/www/hackathon/nepal_telecom_data.php",
 		"/C/wamp/www/hackathon/js/nepal_telecom_data.php",
@@ -453,12 +503,7 @@
 		"/C/wamp/www/kinmel.com/include/header.php",
 		"/C/wamp/www/kinmel.com/signin.php",
 		"/C/wamp/www/CMS/post_action.php",
-		"/C/wamp/www/CMS/close_connection.php",
-		"/C/wamp/www/kinmel.com/logout.php",
-		"/C/wamp/www/blog/mysql.php",
-		"/C/wamp/www/blog/post_view.php",
-		"/C/wamp/www/kinmel.com/auto_load.php",
-		"/C/wamp/www/CMS/constants.php"
+		"/C/wamp/www/CMS/close_connection.php"
 	],
 	"find":
 	{
@@ -518,23 +563,135 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 7,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "index.php",
+					"file": "js/chart_internet.js",
 					"settings":
 					{
-						"buffer_size": 1497,
+						"buffer_size": 1014,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								395,
-								395
+								45,
+								45
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/chart_internet_nepal.js",
+					"settings":
+					{
+						"buffer_size": 1030,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								45,
+								45
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/chart_internet_pie.js",
+					"settings":
+					{
+						"buffer_size": 1257,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1122,
+								1122
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "js/chart_internet_pie_nepal.js",
+					"settings":
+					{
+						"buffer_size": 1257,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1122,
+								1122
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 377.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 2123,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6,
+								6
 							]
 						],
 						"settings":
@@ -550,24 +707,80 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "nepal_index.php",
+					"buffer": 5,
+					"file": "js/chart_internet_users.js",
 					"settings":
 					{
-						"buffer_size": 1161,
+						"buffer_size": 1089,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								6,
-								6
+								45,
+								45
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "js/chart_mobile.js",
+					"settings":
+					{
+						"buffer_size": 1040,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								45,
+								45
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "js/chart_telecom_nepal.js",
+					"settings":
+					{
+						"buffer_size": 1015,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								45,
+								45
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},

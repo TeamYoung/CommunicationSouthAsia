@@ -48,5 +48,11 @@
 	</div>
     <script src="http://code.highcharts.com/highcharts.js"></script>
     <script src="http://code.highcharts.com/modules/exporting.js"></script>
+
+    <div id="footer">
+      <div class="container">
+        <p class="muted credit" align="center">Courtesy Team Young. Open Nepal Hackathon 2013</p>
+      </div>
+    </div>
 </body>
 </html>
