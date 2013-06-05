@@ -291,31 +291,18 @@
 			"file": "index.php",
 			"settings":
 			{
-				"buffer_size": 1934,
+				"buffer_size": 1497,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "data.php",
+			"contents": "<html>\n<head>\n	<title>Nepal Status</title>\n	<link href=\"bootstrap/css/bootstrap.css\" rel=\"stylesheet\">\n    <link href=\"bootstrap/css/bootstrap-responsive.css\" rel=\"stylesheet\">\n    <script type=\"text/javascript\" src=\"http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js\"></script>\n    <script type=\"text/css\">\n    	.container-fluid, .container {\n    		width: 960px;\n    	}\n    </script>\n</head>  \n    <script type=\"text/javascript\" src=\"js/chart_telecom_nepal.js\"></script>\n    <script type=\"text/javascript\" src=\"js/chart_internet_nepal.js\"></script>    \n<body>\n    <center>\n        <img src=\"img/header_final.png\" />\n    </center>\n	<div class=\"container\">\n        <div class=\"actions\">\n		<div class=\"row-fluid\">\n            <div class=\"span10 offset1 well\">\n                <div id=\"chart_telecom_nepal\"></div>\n                <br />\n                <div id=\"chart_internet_nepal\"></div>\n                <br />\n                <div id=\"\"></div> \n            </div>\n        </div>\n	</div>\n    <script src=\"http://code.highcharts.com/highcharts.js\"></script>\n    <script src=\"http://code.highcharts.com/modules/exporting.js\"></script>\n</body>\n</html>",
+			"file": "nepal_index.php",
+			"file_size": 1163,
+			"file_write_time": 130149013127032819,
 			"settings":
 			{
-				"buffer_size": 590,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "include/db_connect.php",
-			"settings":
-			{
-				"buffer_size": 366,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "include/db_constants.php",
-			"settings":
-			{
-				"buffer_size": 143,
+				"buffer_size": 1161,
 				"line_ending": "Windows"
 			}
 		}
@@ -344,6 +331,35 @@
 	},
 	"file_history":
 	[
+		"/C/Users/User/Desktop/index.php",
+		"/C/wamp/www/hackathon/js/chart_telecom_nepal.js",
+		"/C/wamp/www/hackathon/js/chart_internet_nepal.js",
+		"/C/wamp/www/hackathon/nepal_index.php",
+		"/C/wamp/www/hackathon/saarc_internet_data.php",
+		"/C/wamp/www/hackathon/js/chart_mobile.js",
+		"/C/wamp/www/hackathon/nepal_internet_data.php",
+		"/C/wamp/www/hackathon/js/chart_telecom.js",
+		"/C/Users/User/Downloads/index.php",
+		"/C/wamp/www/hackathon/index.php",
+		"/C/Users/User/Downloads/nepal_internet_data.php",
+		"/C/wamp/www/hackathon/saarc_internet_users_data.php",
+		"/C/wamp/www/hackathon/js/chart_internet_users.js",
+		"/C/wamp/www/hackathon/js/chart_internet_pie.js",
+		"/C/wamp/www/hackathon/js/chart_internet.js",
+		"/C/wamp/www/hackathon/nepal_telecom_data.php",
+		"/C/wamp/www/hackathon/js/nepal_telecom_data.php",
+		"/C/Users/User/Desktop/nepal_tele_data.php",
+		"/C/wamp/www/hackathon/js/chart_telecom.j",
+		"/C/wamp/www/hackathon/js/chart_internet_users",
+		"/C/wamp/www/hackathon/saarc_internet_pie_data.php",
+		"/C/wamp/www/hackathon/include/db_constants.php",
+		"/C/wamp/www/hackathon/include/db_connect.php",
+		"/C/Users/User/Downloads/piechart with/chart_pie_internet.js",
+		"/C/wamp/www/hackathon/saarc_mobile_subscription_data.php",
+		"/C/Users/User/Downloads/piechart with/index.php",
+		"/C/Users/User/Downloads/piechart with/data.php",
+		"/C/wamp/www/hackathon/js/chart_pie_internet",
+		"/C/wamp/www/hackathon/data.php",
 		"/C/wamp/www/obudget/data.php",
 		"/C/wamp/www/hackathon/include/db_connect",
 		"/C/wamp/www/kinmel.com/item_details.php",
@@ -442,36 +458,7 @@
 		"/C/wamp/www/blog/mysql.php",
 		"/C/wamp/www/blog/post_view.php",
 		"/C/wamp/www/kinmel.com/auto_load.php",
-		"/C/wamp/www/CMS/constants.php",
-		"/C/wamp/www/CMS/html_form_action.php",
-		"/C/wamp/www/testmysql.php",
-		"/C/wamp/www/kinmel.com/include/connection.php",
-		"/C/Users/User/Desktop/Ruby/analyzer.rb",
-		"/C/Users/User/Desktop/Ruby/practice.rb",
-		"/C/wamp/www/kinmel.com/js/validate.js",
-		"/C/wamp/www/kinmel.com/register_process.php",
-		"/C/wamp/www/kinmel.com/register.php",
-		"/C/wamp/www/kinmel.com/include/constants.php",
-		"/C/Users/User/Desktop/asdf.html",
-		"/C/Users/User/Desktop/Entrepreneurs.txt",
-		"/C/Users/User/Desktop/slr/index.html",
-		"/C/Users/User/Desktop/slr/slr.js",
-		"/C/wamp/www/kinmel.com/search.php",
-		"/C/wamp/www/Cinema_Nepal/include/footer.php",
-		"/C/wamp/www/kinmel.com - Copy/add_item.php",
-		"/C/wamp/www/kinmel.com/uploads/0.jpg",
-		"/C/wamp/www/kinmel.com/contact.php",
-		"/C/Users/User/Desktop/index.php",
-		"/G/kinmel_final/register.php",
-		"/G/kinmel_final/additem.php",
-		"/C/wamp/www/kinmel.com sere/include/header.php",
-		"/C/wamp/www/kinmel.com sere/index.php",
-		"/C/wamp/www/kinmell.com/index.php",
-		"/C/wamp/www/kinmel.com sere/additem.php",
-		"/C/wamp/www/kinmell.com/add_item_process.php",
-		"/C/wamp/www/kinmel.com sere/include/index.php",
-		"/C/wamp/www/kinmel.com sere/Admin/inventory_edit.php",
-		"/C/wamp/www/kinmel.com sere/Admin/admin_header.php"
+		"/C/wamp/www/CMS/constants.php"
 	],
 	"find":
 	{
@@ -489,6 +476,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"container",
 			"gett",
 			"get",
 			";\n",
@@ -538,20 +526,19 @@
 					"file": "index.php",
 					"settings":
 					{
-						"buffer_size": 1934,
+						"buffer_size": 1497,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								6,
-								6
+								395,
+								395
 							]
 						],
 						"settings":
 						{
-							"auto_name": "",
 							"syntax": "Packages/PHP/PHP.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
@@ -564,45 +551,18 @@
 				},
 				{
 					"buffer": 1,
-					"file": "data.php",
+					"file": "nepal_index.php",
 					"settings":
 					{
-						"buffer_size": 590,
+						"buffer_size": 1161,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								96,
-								189
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "include/db_connect.php",
-					"settings":
-					{
-						"buffer_size": 366,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								30,
-								30
+								6,
+								6
 							]
 						],
 						"settings":
@@ -610,33 +570,6 @@
 							"syntax": "Packages/PHP/PHP.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "include/db_constants.php",
-					"settings":
-					{
-						"buffer_size": 143,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								137,
-								137
-							]
-						],
-						"settings":
-						{
-							"auto_name": "",
-							"syntax": "Packages/PHP/PHP.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -698,7 +631,7 @@
 		[
 			[
 				"",
-				"/C/wamp/www/project/project.sublime-project"
+				"/C/wamp/www/kinmel.com/kinmel.sublime-project"
 			],
 			[
 				"hac",

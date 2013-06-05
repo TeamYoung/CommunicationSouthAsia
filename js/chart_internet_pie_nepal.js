@@ -1,13 +1,13 @@
 $(document).ready(function() {
 	var options = {
 		chart: {
-            renderTo: 'saarc_internet_pie',
+            renderTo: 'chart_internet_pie_nepal',
             plotBackgroundColor: null,
             plotBorderWidth: null,
             plotShadow: false
         },
         title: {
-            text: 'Internet Penentration Status in South Asia, 2012'
+            text: 'Internet Penetration Status in Nepal, 2012'
         },
         tooltip: {
             formatter: function() {
@@ -35,8 +35,8 @@ $(document).ready(function() {
         }]
     }
     
-    $.getJSON("saarc_internet_pie_data.php", function(json) {
+    $.getJSON("nepal_internet_pie_data.php", function(json) {
 		options.series[0].data = json;
-		chart = new Highcharts.Chart(options);
+    	chart = new Highcharts.Chart(options);
     });
-});   
+});
