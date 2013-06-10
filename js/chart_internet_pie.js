@@ -35,7 +35,7 @@ $(document).ready(function() {
         }]
     }
     
-    $.getJSON("saarc_internet_pie_data.php", function(json) {
+    $.getJSON("data/saarc_internet_pie_data.json", function(json) {
 		options.series[0].data = json;
 		chart = new Highcharts.Chart(options);
     });

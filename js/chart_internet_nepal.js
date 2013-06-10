@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    $.getJSON('nepal_internet_data.php', function(json){
+    $.getJSON('data/nepal_internet_data.json', function(json){
 
         var chart = new Highcharts.Chart({
             chart: {
@@ -7,7 +7,7 @@ $(document).ready(function(){
                 type: 'line',
             },
             title: {
-                text: 'Internet Service Providers in Nepal'
+                text: 'Internet Service Providers Reach in Nepal'
             },
             xAxis: {
                 title: {
@@ -17,7 +17,7 @@ $(document).ready(function(){
             },
             yAxis: {
                 title: {
-                    text: 'Value'
+                    text: 'No. of Users'
                 },
             },
             tooltip: {

@@ -7,7 +7,7 @@ $(document).ready(function() {
             plotShadow: false
         },
         title: {
-            text: 'Internet Penetration Status in Nepal, 2012'
+            text: 'Internet Service Providers Penetration Status in Nepal, 2012'
         },
         tooltip: {
             formatter: function() {
@@ -35,7 +35,7 @@ $(document).ready(function() {
         }]
     }
     
-    $.getJSON("nepal_internet_pie_data.php", function(json) {
+    $.getJSON("data/nepal_internet_pie_data.json", function(json) {
 		options.series[0].data = json;
     	chart = new Highcharts.Chart(options);
     });

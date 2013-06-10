@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    $.getJSON('nepal_telecom_data.php', function(json){
+    $.getJSON('data/nepal_telecom_data.json', function(json){
 
         var chart = new Highcharts.Chart({
             chart: {
@@ -7,7 +7,7 @@ $(document).ready(function(){
                 type: 'line',
             },
             title: {
-                text: 'Telephone Service Providers In Nepal'
+                text: 'Telephone Service Providers Reach In Nepal'
             },
             xAxis: {
                 title: {
@@ -17,7 +17,7 @@ $(document).ready(function(){
             },
             yAxis: {
                 title: {
-                    text: 'Number of Users'
+                    text: 'No. of Users'
                 },
             },
             tooltip: {

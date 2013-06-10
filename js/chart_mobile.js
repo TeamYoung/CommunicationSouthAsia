@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    $.getJSON('saarc_mobile_subscription_data.php', function(json){
+    $.getJSON('data/saarc_mobile_subscription_data.json', function(json){
 
         var chart = new Highcharts.Chart({
             chart: {
