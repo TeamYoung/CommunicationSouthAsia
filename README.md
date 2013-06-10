@@ -11,16 +11,13 @@ This project is developed by 'Team Young' in hackathon event of OpenNepal Week o
 * Suresh Shrestha (surestha@gmail.com)
 * Tribhuvan Raj Pokheral (trpansh1989@gmail.com)
 
-## ScreenShot
+## Screenshots
 
 ## Requirements
 
 * Working internet connection
 * Apache2 (http & php )server
-* MySql server
-(LAMP or MAMP or WAMP or XAMPP will work)
 
 ## How to
-* Import the hackathon_db.sql database (through phpmyadmin or other means)
+
 * Copy the contents of the folder inside the www in Wamp or htdocs in Xampp in Windows. In Linux the www or htdocs is located in /srv or /var. Refer to the distro manual if confused.
-* Update your MySQL username and password in the 'hackathon/include/db_constants.php' file. If you don't have set any password to your MySQL database leave it blank.   
