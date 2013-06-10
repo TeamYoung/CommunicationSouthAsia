@@ -11,13 +11,11 @@ This project is developed by 'Team Young' in hackathon event of OpenNepal Week o
 * Suresh Shrestha (surestha@gmail.com)
 * Tribhuvan Raj Pokheral (trpansh1989@gmail.com)
 
-## Screenshots
-
 ## Requirements
 
-* Working internet connection
-* Apache2 (http & php )server
+* Working Internet Connection
+* Apache2 (http & php) Server
 
 ## How to
 
-* Copy the contents of the folder inside the www in Wamp or htdocs in Xampp in Windows. In Linux the www or htdocs is located in /srv or /var. Refer to the distro manual if confused.
+* Dowload the zip and copy the contents of the folder inside the www in Wamp or htdocs in Xampp in Windows. In Linux the www or htdocs is located in /srv or /var. Refer to the distro manual if confused.
