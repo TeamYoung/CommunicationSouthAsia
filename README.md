@@ -19,3 +19,17 @@ This project is developed by 'Team Young' in hackathon event of OpenNepal Week o
 ## How to
 
 * Dowload the zip and copy the contents of the folder inside the www in Wamp or htdocs in Xampp in Windows. In Linux the www or htdocs is located in /srv or /var. Refer to the distro manual if confused.
+
+## Screenshots
+
+![screenshot1][screenshot1]
+![screenshot2][screenshot2]
+![screenshot3][screenshot3]
+![screenshot4][screenshot4]
+![screenshot5][screenshot5]
+[screenshot1]: https://raw.github.com/crazyNeo/CommunicationSouthAsia/master/screenshot/screenshot1.jpg
+[screenshot2]: https://raw.github.com/crazyNeo/CommunicationSouthAsia/master/screenshot/screenshot2.jpg
+[screenshot3]: https://raw.github.com/crazyNeo/CommunicationSouthAsia/master/screenshot/screenshot3.jpg
+[screenshot4]: https://raw.github.com/crazyNeo/CommunicationSouthAsia/master/screenshot/screenshot4.jpg
+[screenshot5]: https://raw.github.com/crazyNeo/CommunicationSouthAsia/master/screenshot/screenshot5.jpg
+
