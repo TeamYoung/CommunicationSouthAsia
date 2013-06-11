@@ -9,7 +9,7 @@ This project is developed by 'Team Young' in hackathon event of OpenNepal Week o
 * Saugat Acharya (mesaugat@gmail.com)
 * Shalil Awaley (shalil9130@gmail.com)
 * Suresh Shrestha (surestha@gmail.com)
-* Tribhuvan Raj Pokheral (trpansh1989@gmail.com)
+* Tribhuvan Raj Pokharel (trpansh1989@gmail.com)
 
 ## Requirements
 
