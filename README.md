@@ -18,7 +18,8 @@ This project is developed by 'Team Young' in hackathon event of OpenNepal Week o
 
 ## How to
 
-* Dowload the zip and copy the contents of the folder inside the www in Wamp or htdocs in Xampp in Windows. In Linux the www or htdocs is located in /srv or /var. Refer to the distro manual if confused.
+* Download the zip and copy the contents of the folder inside the www in Wamp or htdocs in Xampp in Windows. In Linux the www or htdocs is located in /srv or /var. Refer to the distro manual if confused.
+* Load index.php
 
 ## Screenshots
 
